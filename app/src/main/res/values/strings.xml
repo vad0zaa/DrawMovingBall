@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrawMovingBall</string>
+
+    <string name="textView_frameRate">Frame rate:</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_draw_ball">DrawBall</string>
+</resources>
